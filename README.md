@@ -1,6 +1,6 @@
 # csv2latex-table
 
-**csv2latex-table** is a lightweight Python script for converting CSV files into LaTeX-formatted tables, particularly suited for academic writing.
+**csv2latex-table** is a Python script for converting CSV files into LaTeX-formatted tables, particularly suited for academic writing.
 
 ## Features
 
